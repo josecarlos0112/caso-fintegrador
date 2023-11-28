@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 #include <map>
-#include "json11.hpp" // Asegúrate de tener esta biblioteca en tu sistema
+#include "json11.hpp"
 #include "jsonlib.hpp" // No estoy seguro de qué biblioteca es esta, asegúrate de tenerla en tu sistema
 
 enum variant_type { Symbol, Number, List, Proc, Lambda, Cadena };
